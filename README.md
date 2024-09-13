@@ -23,3 +23,6 @@ De esta forma los inscriptos al taller pueden saber en qué fecha le llegará el
 3. Instalar las dependencias `pip install -r requirements.txt`
 4. Correr el script principal `python generate_timeline.py`
 
+#### Agradecimientos
+Muchas gracias a @alelles16 por el [script inicial](https://github.com/alelles16/django_girls_timeline/tree/master)
+
